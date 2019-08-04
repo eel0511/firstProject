@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item android:id="@+id/action_btn1"
         android:title="검색"
-        app:showAsAction="ifRoom" />
+        app:showAsAction="always" />
     <item android:id="@+id/action_btn2"
         android:title="옵션"
         app:showAsAction="always" />
